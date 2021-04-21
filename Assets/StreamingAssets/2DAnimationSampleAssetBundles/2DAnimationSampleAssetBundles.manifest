@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2269512844
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: scenes/mobile/name_level_272
+      Dependencies: {}
+    Info_1:
+      Name: scenes/mobile/name_level_273
+      Dependencies: {}
+    Info_2:
+      Name: rikrpoison
+      Dependencies: {}
+    Info_3:
+      Name: rikrrage
+      Dependencies: {}

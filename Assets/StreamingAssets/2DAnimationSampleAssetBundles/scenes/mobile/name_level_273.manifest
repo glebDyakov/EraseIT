@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 843327774
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 38d3cbea1cb6b42b41bbba6177cd572d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: afc6ef7df911ae7ff1dc646f495530d4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe3a9d019a2092c41bd55d4649c47466, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e74838191522d41469e02a13cf348da9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/PingviGames/GameScenes/mobile/name_level_273/name_level_273.prefab
+Dependencies: []
